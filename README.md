@@ -49,7 +49,7 @@ Welcome to my GitHub profile! I'm a passionate **Web Developer** focused on buil
 - 💼 [Portfolio Website](https://favmaclegend.vercel.app/) 
 - 🐦 [Twitter](https://twitter.com/yourhandle)
 - 💌 Email: `youremail@example.com`
-- 💬 LinkedIn: [linkedin.com/in/yourname](https://www.linkedin.com/in/favour-macauley-588174283/))
+- 💬 LinkedIn: [linkedin.com/in/FavourMacauley](https://www.linkedin.com/in/favour-macauley-588174283/))
 
 ---
 
